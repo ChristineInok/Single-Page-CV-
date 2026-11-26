@@ -22,8 +22,7 @@ single-page-cv/
 
 ## 🔗 Project Reference
 
-[Roadmap.sh – Single-Page CV Project](https://roadmap.sh/projects/single-page-cv)
-
+https://roadmap.sh/projects/single-page-cv
 ## 👩‍💻 Author
 
 **Christine Inok**
